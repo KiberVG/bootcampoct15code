@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+#button-container {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+#button-container button {
+    width: 20%;
+    height: 4rem;
+    margin: 1rem;
+    border-radius: 10%;
+}
+
+.my-class {
+    color: red;
+    font-size: x-large;
+}

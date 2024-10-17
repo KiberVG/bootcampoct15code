@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+}
+
+.dark {
+    color: white;
+    background-color: black;
+}
+
+nav {
+    width: 100%;
+}
+
+nav ul {
+    margin: auto;
+    display: flex;
+    list-style-type: none;
+    width: 80%;
+    justify-content: flex-end;
+}
+
+nav ul li {
+    padding: 1rem;
+    margin: 1rem;
+}
+
+nav ul li:hover {
+    color:teal;
+    cursor: pointer;
+}
+
+#notes {
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.note {
+    border-style: solid;
+    width: 17rem;
+    padding: 2rem;
+    margin: 1rem;
+}
+
+.note:hover {
+    cursor: pointer;
+    background-color: gainsboro;
+}
+
