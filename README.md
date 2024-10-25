@@ -1,4 +1,3 @@
-# bootcampoct15code
+# Lecture Code
 
-
-Students! You will all be completing this matching card game. Follow the directions throughout this file to slowly build out the game's features.
+This is where I will be posting all the lecture code every week.
