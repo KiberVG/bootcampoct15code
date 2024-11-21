@@ -1,0 +1,1 @@
+SELECT * FROM movies WHERE score > 5 and year = 2005 ORDER BY score;
