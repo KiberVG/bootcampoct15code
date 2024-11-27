@@ -1,0 +1,26 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
+
+nav #link-list ul {
+    display: flex;
+    text-align: none;
+    list-style-type: none;
+    justify-content: space-around;
+    padding: 0;
+}
+nav #link-list {
+    width: 35%;
+}
+
+nav #link-list ul li {
+    padding: 0.5rem;
+}
+
+nav #link-list ul li:hover {
+    color:cadetblue;
+    cursor: pointer;
+}
+

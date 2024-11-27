@@ -1,0 +1,26 @@
+#notes-container {
+    display: flex;
+    margin: auto;
+    padding: 1rem;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.note {
+    width: 18rem;
+    padding: 1rem;
+    margin: 0.5rem;
+    border-style: solid;
+    text-align: center;
+}
+
+.note:hover {
+    cursor:pointer;
+    border-color: cadetblue;
+}
+
+.dark {
+    border-color: white;
+    color: white;
+    background-color: black;
+}
